@@ -13,7 +13,7 @@ Standout submissions that is beneficial to the members of the community of Data 
 To support your journey through the challenge, we've compiled a comprehensive list of resources:
 
 - [YouTube](https://www.youtube.com/channel/UCv9TSSXw9SVWdQreJo2ZU_Q): Stream tutorials and insights.
-- [Substack](breakintodata.substack.com/about): Follow our newsletter for updates and tips.
+- [Substack](https://breakintodata.substack.com/about): Follow our newsletter for updates and tips.
 - [LinkedIn](https://www.linkedin.com/company/break-into-data/): Connect with peers and share your progress.
 - [Discord](https://discord.gg/G6wwZXrFPB): Join real-time discussions and collaboration.
 - Google Docs: Access detailed documentation and guides.
