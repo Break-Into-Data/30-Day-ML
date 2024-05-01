@@ -8,7 +8,4 @@ This module will guide you through building various machine learning models.
 - Training models
 - Overfitting and how to avoid it
 
-**Resources:**
-
-- [Selecting Machine Learning Models](#)
-- [Training Your First Model](#)
+Check out the [resouces.md](resources.md) file for a list of resources to help you with your model building journey.

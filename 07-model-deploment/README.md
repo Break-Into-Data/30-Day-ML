@@ -8,7 +8,4 @@ The final step in your machine learning journey—deploy your model to start mak
 - Monitoring model performance in production
 - Updating models
 
-**Resources:**
-
-- [Model Deployment Techniques](#)
-- [Monitoring and Maintaining Your Model](#)
+Check out the [resouces.md](resources.md) file for a list of resources to help you with your model deployment.

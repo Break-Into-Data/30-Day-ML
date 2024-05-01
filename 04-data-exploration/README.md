@@ -8,7 +8,4 @@ Dive into your data to find patterns, anomalies, and understand its structure be
 - Data visualization
 - Data cleaning
 
-**Resources:**
-
-- [Interactive Data Visualization Tools](#)
-- [Essential Data Cleaning Steps](#)
+Check out the [resouces.md](resources.md) file for a list of resources to help you with your data exploration journey.

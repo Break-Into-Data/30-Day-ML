@@ -9,7 +9,4 @@ Focus on importing the extracted data into the data processing environment effec
 - Automating data ingestion
 - Troubleshooting common issues
 
-**Resources:**
-
-- [Data Ingestion Tools Overview](#)
-- [Automating Your Data Pipeline](#)
+Check out the [resouces.md](resources.md) file for a list of resources to help you with your data ingestion journey.
