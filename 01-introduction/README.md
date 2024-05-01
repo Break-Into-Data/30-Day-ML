@@ -1,7 +1,7 @@
 # Introduction to 30-Day ML Challenge May 2024
 
 <p align="center">
-  <a href="https://www.loom.com/share/adc5a0002405428d941ce4bbd141a432?sid=56e81578-9f67-4ae6-9fbc-c3804ce9fdbd"><img src="images/intro-vid.png" /></a>
+  <a href="https://youtu.be/wJPuXwoIlHI"><img src="images/intro-vid.png" /></a>
 </p>
 
 ## 🏆 Competition Structure
