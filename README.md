@@ -1,8 +1,6 @@
 # 30-Day-ML Challenge
 
-<p align="center">
-  <img src="images/bid.png" /></a>
-</p>
+![Break Into Data Logo]("images/bid.png"){ width=300 height=200 }
 
 ## 🌟 Getting Started
 
