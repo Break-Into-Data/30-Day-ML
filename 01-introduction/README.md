@@ -14,12 +14,16 @@ Standout submissions that is beneficial to the members of the community of Data 
 
 ## 📚 Resources
 
-To support your journey through the challenge, we've compiled a comprehensive list of resources:
+To support your journey through the challenge, we've compiled a comprehensive list of resources. You can pick and choose the ones that best suit your needs.
 
-- [YouTube](https://www.youtube.com/channel/UCv9TSSXw9SVWdQreJo2ZU_Q): Stream tutorials and insights.
-- [Substack](https://breakintodata.substack.com/about): Follow our newsletter for updates and tips.
-- [LinkedIn](https://www.linkedin.com/company/break-into-data/): Connect with peers and share your progress.
-- [Discord](https://discord.gg/G6wwZXrFPB): Join real-time discussions and collaboration.
-- Google Docs: Access detailed documentation and guides.
+### Articles
+
+- [How to build a data project](https://merinova.substack.com/p/how-to-build-a-data-project-to-10x)
+- [Machine Learning End-to-End Guide for Beginners](https://medium.com/@prateekgaurav/machine-learning-end-to-end-a-guide-to-beginners-in-machine-learning-9877364ed9a8)
+
+### Videos
+
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
+- [Fast.ai Deep Learning Course](https://course.fast.ai/).
 
 Gear up for a transformative experience that sharpens your skills and expands your network within the data world!

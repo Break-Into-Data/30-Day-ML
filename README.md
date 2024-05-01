@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/4AfQ2X3Ffc)
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=flat&logo=substack&logoColor=white)](https://breakintodata.substack.com/about)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/break-into-data/) [![Youtube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCv9TSSXw9SVWdQreJo2ZU_Q)  ![](https://visitor-badge.laobi.icu/badge?page_id=break-into-data.30-day-ml) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/break-into-data/) [![Youtube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCv9TSSXw9SVWdQreJo2ZU_Q)  ![](https://visitor-badge.laobi.icu/badge?page_id=break-into-data.30-day-ml) 
 
 <p align="center">
 <img src="images/bid.png" width="300" height="300" alt="Break Into Data Logo">
