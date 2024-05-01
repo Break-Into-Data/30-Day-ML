@@ -1,5 +1,9 @@
 # 30-Day-ML Challenge
 
+<p align="center">
+  <img src="images/bid.png" /></a>
+</p>
+
 ## 🌟 Getting Started
 
 Welcome to the 30-Day ML Challenge hosted by Break into Data! This GitHub repository serves as your central hub, providing all necessary details for participation in this event. Engage with our data community through a series of exciting, hands-on projects designed to boost your data skills.
@@ -29,6 +33,15 @@ Of course, you can take each module independently.
 * Python Skills: Comfort with Python, ranging from basic syntax to intermediate applications.
 * Command Line Proficiency: Familiarity with basic command line operations.
 * Project Experience: Prior experience with project development will help you maximize your learning.
+
+## 📚 Resources
+
+To support your journey through the challenge, we've compiled a comprehensive list of resources:
+
+* [YouTube](https://www.youtube.com/channel/UCv9TSSXw9SVWdQreJo2ZU_Q): Stream tutorials and insights.
+* [Substack](https://breakintodata.substack.com/about): Follow our newsletter for updates and tips.
+* [LinkedIn](https://www.linkedin.com/company/break-into-data/): Connect with peers and share your progress.
+* [Discord](https://discord.gg/G6wwZXrFPB): Join real-time discussions and collaboration.
 
 ## ❓ Asking questions
 

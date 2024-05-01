@@ -1,5 +1,9 @@
 # Introduction to 30-Day ML Challenge May 2024
 
+<p align="center">
+  <a href="https://www.loom.com/share/adc5a0002405428d941ce4bbd141a432?sid=56e81578-9f67-4ae6-9fbc-c3804ce9fdbd"><img src="images/intro-vid.png" /></a>
+</p>
+
 ## 🏆 Competition Structure
 
 Form a team (2-6 members) and dive into the competition, where your projects will be evaluated based on [these criteria](link to the criteria). Top three projects will earn the winners' spotlight.
