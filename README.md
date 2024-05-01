@@ -1,10 +1,16 @@
 # 30-Day-ML Challenge
 
-![Break Into Data Logo](images/bid.png){ width=300 height=200 }
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/4AfQ2X3Ffc)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=flat&logo=substack&logoColor=white)](https://breakintodata.substack.com/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/break-into-data/) [![Youtube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCv9TSSXw9SVWdQreJo2ZU_Q)  ![](https://visitor-badge.laobi.icu/badge?page_id=break-into-data.30-day-ml) 
+
+<p align="center">
+<img src="images/bid.png" width="300" height="300" alt="Break Into Data Logo">
+</p>
 
 ## 🌟 Getting Started
 
-Welcome to the 30-Day ML Challenge hosted by Break into Data! This GitHub repository serves as your central hub, providing all necessary details for participation in this event. Engage with our data community through a series of exciting, hands-on projects designed to boost your data skills.
+Welcome to the 30-Day ML Challenge hosted by Break into Data! This GitHub repository serves as your central hub, providing all the necessary details for participation in this event. Engage with our data community through a series of exciting, hands-on projects designed to boost your data skills.
 
 * _Sign up form? (to grab their emails)_
 * Join our [Discord](https://discord.gg/G6wwZXrFPB) and get active on the `🏆 30-DAY-ML-CHALLENGE` channel group
@@ -44,6 +50,5 @@ To support your journey through the challenge, we've compiled a comprehensive li
 ## ❓ Asking questions
 
 Have queries? Don't hesitate to reach out:
-
 
 Get ready to enhance your machine learning skills with a community of enthusiastic learners and seasoned experts!
