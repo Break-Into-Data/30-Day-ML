@@ -1,6 +1,6 @@
 # 30-Day-ML Challenge
 
-![Break Into Data Logo]("images/bid.png"){ width=300 height=200 }
+![Break Into Data Logo](images/bid.png){ width=300 height=200 }
 
 ## 🌟 Getting Started
 
